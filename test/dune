@@ -1,0 +1,3 @@
+(executables
+ (names manual_tests qcheck_tests)
+ (libraries flat_combining threads qcheck-core qcheck-lin.domain))

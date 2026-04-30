@@ -1,0 +1,3 @@
+(library
+ (name flat_combining)
+ (libraries threads))

@@ -1,0 +1,3 @@
+(executable
+ (name benchmark)
+ (libraries flat_combining threads unix))
